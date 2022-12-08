@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Advent of Code 2022: Day 6 (part 2)
+# Advent of Code 2022: Day 7 (part 2)
 # Submission by qxtal <quartz@xtal.sh>
 
 # This... was harder than I anticipated.
